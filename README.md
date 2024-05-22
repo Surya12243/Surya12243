@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web devlopment on front-end and as well as back-end.
 - 📫 How to reach me :- mail me @ "annamnenijayasurya@gamil.com"
 - 😄 Pronouns: Facing big is not a problem it's a big problem.
-- ⚡ Fun fact: Every girl for money but why Coding does't.
+- ⚡ Fun fact: Every girl falls for money but why Coding does't.
 
 <!---
 Surya12243/Surya12243 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
