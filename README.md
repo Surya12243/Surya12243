@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Surya12243
+- 👋 Hi, I’m Jaya Surya Annamneni
 - 👀 I’m interested in Full stack development.
 - 🌱 I’m currently learning Java,Python,SQL,CSS,HTML,PHP,.......
 - 💞️ I’m looking to collaborate on web devlopment on front-end and as well as back-end.
